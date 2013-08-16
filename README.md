@@ -1,7 +1,8 @@
 Mega Project List
 ========
 
-I'm going to attempt Martyr2’s Mega Project list using Haskell in order to learn some of the language and get much needed general programming practice. I'll be committing each problem as I go. 
+I'm going to attempt Martyr2’s Mega Project list using Haskell in order to learn some of the language 
+and get much needed general programming practice. I'll be committing each problem as I go. 
 
 This repo was forked from thekarangoel's project list and his Python solutions have been deleted. 
 

@@ -1,17 +1,11 @@
 Mega Project List
 ========
 
-I'm going to attempt Martyr2’s Mega Project list using Haskell in order to learn some of the language and get
+I'm going to attempt Martyr2’s Mega Project list using Haskell in order to learn some of the language and get much needed general programming practice. I'll be committing each problem as I go. 
 
-much needed general programming practice. This repo was forked from thekarangoel's project list and his 
+This repo was forked from thekarangoel's project list and his Python solutions have been deleted. 
 
-Python solutions have been deleted. 
-
-
-Alongside these projects, I am also reading "Learn You a Haskell for Great Good" by Miran Lipovača for basics 
-
-of the language. 
-
+Alongside these projects, I am also reading ["Learn You a Haskell for Great Good"](http://learnyouahaskell.com/) by Miran Lipovača for basics of the language. 
 
 
 I'm excited, let's a go!!

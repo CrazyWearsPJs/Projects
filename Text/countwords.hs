@@ -1,6 +1,6 @@
 {-
-	Count Words in a String - Counts the number of individual 
-	words in a string and display the top 5/10 most used words.
+	Count Words in a String -  Counts the number of individual words in a string. 
+	For added complexity read these strings in from a text file and generate a summary.
 -}
 
 import Data.Char (toLower)

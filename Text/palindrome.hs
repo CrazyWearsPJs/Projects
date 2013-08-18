@@ -6,7 +6,12 @@
 main = do
 	putStr "Enter string: "
 	userString <- getLine
-	print  $ userString ++ if isPalindrome userString then " is a palindrome" else " is not a palindrome"
+	print  $ printPalindrome $ userString
+
+printPalindrome :: String -> String
+printPalindrome a 
+	| isPalindrome a ++ " is a palindrome."
+	| otherwise = a ++ " is not a palindrome."
 
 isPalindrome :: String -> Bool
 isPalindrome a = a == reverse a
